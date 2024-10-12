@@ -21,7 +21,42 @@
 - in 2012, ryan left and isaac(npm creator) took the leadership role.
 - in 2014, Controversies - Fedor forked node and created io.js.
 - in 2015 io.js and node merged to form node.js foundation
-- in 2019, JS Foundation and Node.js foundation merged to form openJS foundation.
+- in 2019, JS Foundation and Node.js foundation merged to form openJS foundation. 
+
+
+## 02. JS on Server
+
+### what is a server ?
+- nothing but remote computer or machine that recieves (cloud ..etc)
+
+
+- **nodejs is c++ code**
+
+- Javascript engine is just a c++ program (have bridger methods)
+
+- V8 can be embedded to any c++ application.
+
+- Node js is a c++ application with v8 embedded into it which is also use c++
+
+[text](https://tjwebdev.in/_next/image?url=%2Fassets%2Fblog_images%2Fnode_architecture.png&w=1920&q=75)
+
+- V8 cannot do more than compiling js, in order to do that we have node apis and modules for operation like database and network requests.
+
+### ECMASCRIPT 
+- is a standard that scripting languages like js and as follows.
+- grammar standards / rules
+- A central commitee is responsible for adding new freatures.
+
+- JS -> C++ -> machine code -> assembly -> binary code 
+
+
+
+
+
+
+
+
+
 
 
 
