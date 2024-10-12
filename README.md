@@ -38,7 +38,8 @@
 
 - Node js is a c++ application with v8 embedded into it which is also use c++
 
-https://tjwebdev.in/_next/image?url=%2Fassets%2Fblog_images%2Fnode_architecture.png&w=1920&q=75
+![image](https://github.com/user-attachments/assets/c2a99407-edda-4db1-8d6d-ecd1490bfe61)
+
 
 - V8 cannot do more than compiling js, in order to do that we have node apis and modules for operation like database and network requests.
 
