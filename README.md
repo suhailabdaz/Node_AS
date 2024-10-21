@@ -31,6 +31,7 @@
 
 
 - **nodejs is c++ code**
+![Screenshot 2024-10-21 115153](https://github.com/user-attachments/assets/ba05bd3b-4fb2-4c73-a07a-5a87cdb101be)
 
 - Javascript engine is just a c++ program (have bridger methods)
 
